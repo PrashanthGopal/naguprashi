@@ -1,6 +1,10 @@
-![wedding](/images/wedding_sticker.png?raw=true "Merging")
 
-Justin Grimes (@justgrimes) and Ann Galloway (@gallowann) are getting married. This crappy website is dedicated to their love.
+
+Nagarathna and Prahanth Gopal are getting married. This website is dedicated to their love.
+
+
+published in below URL
+https://prashanthgopal.github.io/naguprashi/
 
 
 
