@@ -470,7 +470,7 @@ function initialize(){
         mapTypeId:google.maps.MapTypeId.ROADMAP
     };
 
-    var map = new google.maps.Map(document.getElementById("map-canvas"),mapProp);
+    var map = new google.maps.Map(document.getElementById("mapdiv"),mapProp);
 
     var marker = new google.maps.Marker({
         position:myCenter,
@@ -481,7 +481,7 @@ function initialize(){
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 
-			<div id="map-canvas"></div>
+			<div id="mapdiv"></div>
 
 			<!-- ========== LOCATION END ========== -->
 
