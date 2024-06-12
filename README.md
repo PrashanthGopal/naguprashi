@@ -4,7 +4,7 @@ Nagarathna and Prahanth Gopal are getting married. This website is dedicated to 
 
 
 published in below URL
-https://prashanthgopal.github.io/naguprashi/
+https://prashanthgopal.github.io/wedding-naguprashi/
 
 
 
